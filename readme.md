@@ -26,8 +26,3 @@ The Word Grid Puzzle Server is a collaborative word puzzle creation application.
 2. **Run the Server:**
    ```bash
    ./server <port> <filename>
-
-## Candidate
-**Name:** Shivam Singh <br>
-**email:** shivam.27.iitd@gmail.com <br>
-**Phone:** (+91)7753990027
