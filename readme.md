@@ -21,8 +21,8 @@ The Word Grid Puzzle Server is a collaborative word puzzle creation application.
 
 1. **Compile the Server:**
    ```bash
-   g++ -o server server.cpp -lboost_system -lboost_thread -pthread -lboost_iostreams or <br>
-   make
+   make OR
+   g++ -o server server.cpp -lboost_system -lboost_thread -pthread -lboost_iostreams
 2. **Run the Server:**
    ```bash
    ./server <port> <filename>
